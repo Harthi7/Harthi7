@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![ibmhacktoberfest2024](https://github.com/user-attachments/assets/5b3960d9-4cf3-45fe-8ec9-81dade94c462)
 
 <!--
 **Harthi7/Harthi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
